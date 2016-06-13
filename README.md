@@ -2,5 +2,3 @@
 
 This is my tutorial repository.
 
-
-a
